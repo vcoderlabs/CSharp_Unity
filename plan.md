@@ -366,12 +366,12 @@ Mỗi milestone có: Requirements → Architecture diagram → Tasks → Expecte
 - [x] Level 13 — Networking → `tutorials/level-13-networking/`
 - [x] Level 14 — Testing → `tutorials/level-14-testing/`
 - [x] Level 15 — Clean Code → `tutorials/level-15-clean-code/`
-- [ ] Level 16 — SOLID → `tutorials/level-16-solid/` (khung README)
-- [ ] Level 17 — Design Patterns → `tutorials/level-17-design-patterns/` (khung README)
-- [ ] Level 18 — Architecture → `tutorials/level-18-architecture/` (khung README)
-- [ ] Level 19 — Performance → `tutorials/level-19-performance/` (khung README)
-- [ ] Level 20 — Professional C# → `tutorials/level-20-professional/` (khung README)
-- [ ] Level 21 — C# for Unity → `tutorials/level-21-unity/` (khung README)
-- [ ] Capstone Project — Unity MMORPG / Game Architecture → `tutorials/capstone-mmorpg/` (khung README)
+- [x] Level 16 — SOLID → `tutorials/level-16-solid/`
+- [x] Level 17 — Design Patterns → `tutorials/level-17-design-patterns/`
+- [x] Level 18 — Architecture → `tutorials/level-18-architecture/`
+- [x] Level 19 — Performance → `tutorials/level-19-performance/`
+- [x] Level 20 — Professional C# → `tutorials/level-20-professional/`
+- [x] Level 21 — C# for Unity → `tutorials/level-21-unity/`
+- [x] Capstone Project — Unity MMORPG / Game Architecture → `tutorials/capstone-mmorpg/`
 
-**Bước tiếp theo:** Đã có bài L0–15. Batch tiếp theo: L16–21 + Capstone (mỗi 5 level cập nhật tiến độ + commit).
+**Bước tiếp theo:** Toàn bộ L0–21 + Capstone đã có bài tiếng Việt. Học tuần tự theo `tutorials/README.md`; ưu tiên sâu L3, L7, L10, L17 trước khi vào Unity.

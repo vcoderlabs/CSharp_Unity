@@ -48,13 +48,13 @@ Lộ trình học theo [`plan.md`](../plan.md). Mỗi level có bài giảng + b
 | 13 | [level-13-networking](./level-13-networking/) | ✅ Có bài |
 | 14 | [level-14-testing](./level-14-testing/) | ✅ Có bài |
 | 15 | [level-15-clean-code](./level-15-clean-code/) | ✅ Có bài |
-| 16 | [level-16-solid](./level-16-solid/) | 📝 Khung |
-| 17 | [level-17-design-patterns](./level-17-design-patterns/) | 📝 Khung |
-| 18 | [level-18-architecture](./level-18-architecture/) | 📝 Khung |
-| 19 | [level-19-performance](./level-19-performance/) | 📝 Khung |
-| 20 | [level-20-professional](./level-20-professional/) | 📝 Khung |
-| 21 | [level-21-unity](./level-21-unity/) | 📝 Khung |
-| Capstone | [capstone-mmorpg](./capstone-mmorpg/) | 📝 Khung |
+| 16 | [level-16-solid](./level-16-solid/) | ✅ Có bài |
+| 17 | [level-17-design-patterns](./level-17-design-patterns/) | ✅ Có bài |
+| 18 | [level-18-architecture](./level-18-architecture/) | ✅ Có bài |
+| 19 | [level-19-performance](./level-19-performance/) | ✅ Có bài |
+| 20 | [level-20-professional](./level-20-professional/) | ✅ Có bài |
+| 21 | [level-21-unity](./level-21-unity/) | ✅ Có bài |
+| Capstone | [capstone-mmorpg](./capstone-mmorpg/) | ✅ Có bài |
 
 **Chuỗi bắt buộc:** L0 → L1 → L2 → L3 → L4 → L5. Không nhảy cóc.
 
