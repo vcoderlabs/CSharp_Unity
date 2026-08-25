@@ -15,7 +15,8 @@ Lộ trình học C# bằng **tiếng Việt**, hướng tới Unity và game ar
 |-------|--------|------------|
 | 0–5 | Fundamentals → OOP → Value/Ref → Collections → Generics | ✅ Có bài đầy đủ |
 | 6–10 | Exception → Delegates → LINQ → Advanced → Memory | ✅ Có bài đầy đủ |
-| 11–21 | Async → … → Unity | 📝 Khung README |
+| 11–15 | Async → File/IO → Networking → Testing → Clean Code | ✅ Có bài đầy đủ |
+| 16–21 | SOLID → Patterns → Architecture → Performance → Pro → Unity | 📝 Khung README |
 | Capstone | Unity MMORPG Architecture (8 milestones) | 📝 Khung |
 
 **Chuỗi bắt buộc:** Level 0 → 1 → 2 → 3 → 4 → 5. Không nhảy cóc.

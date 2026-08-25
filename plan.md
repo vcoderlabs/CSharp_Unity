@@ -361,11 +361,11 @@ Mỗi milestone có: Requirements → Architecture diagram → Tasks → Expecte
 - [x] Level 8 — LINQ → `tutorials/level-08-linq/`
 - [x] Level 9 — Advanced C# → `tutorials/level-09-advanced-csharp/`
 - [x] Level 10 — Memory Management → `tutorials/level-10-memory/`
-- [ ] Level 11 — Async / Await / Multithreading → `tutorials/level-11-async/` (khung README)
-- [ ] Level 12 — File / IO / Serialization → `tutorials/level-12-file-io/` (khung README)
-- [ ] Level 13 — Networking → `tutorials/level-13-networking/` (khung README)
-- [ ] Level 14 — Testing → `tutorials/level-14-testing/` (khung README)
-- [ ] Level 15 — Clean Code → `tutorials/level-15-clean-code/` (khung README)
+- [x] Level 11 — Async / Await / Multithreading → `tutorials/level-11-async/`
+- [x] Level 12 — File / IO / Serialization → `tutorials/level-12-file-io/`
+- [x] Level 13 — Networking → `tutorials/level-13-networking/`
+- [x] Level 14 — Testing → `tutorials/level-14-testing/`
+- [x] Level 15 — Clean Code → `tutorials/level-15-clean-code/`
 - [ ] Level 16 — SOLID → `tutorials/level-16-solid/` (khung README)
 - [ ] Level 17 — Design Patterns → `tutorials/level-17-design-patterns/` (khung README)
 - [ ] Level 18 — Architecture → `tutorials/level-18-architecture/` (khung README)
@@ -374,4 +374,4 @@ Mỗi milestone có: Requirements → Architecture diagram → Tasks → Expecte
 - [ ] Level 21 — C# for Unity → `tutorials/level-21-unity/` (khung README)
 - [ ] Capstone Project — Unity MMORPG / Game Architecture → `tutorials/capstone-mmorpg/` (khung README)
 
-**Bước tiếp theo:** Đã có bài L0–10. Tiếp theo batch L11–15, rồi L16–21 + Capstone. Mỗi 5 level cập nhật tiến độ và commit.
+**Bước tiếp theo:** Đã có bài L0–15. Batch tiếp theo: L16–21 + Capstone (mỗi 5 level cập nhật tiến độ + commit).

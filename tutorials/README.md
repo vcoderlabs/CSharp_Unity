@@ -43,12 +43,16 @@ Lộ trình học theo [`plan.md`](../plan.md). Mỗi level có bài giảng + b
 | 8 | [level-08-linq](./level-08-linq/) | ✅ Có bài |
 | 9 | [level-09-advanced-csharp](./level-09-advanced-csharp/) | ✅ Có bài |
 | 10 | [level-10-memory](./level-10-memory/) | ✅ Có bài |
-| 11 | [level-11-async](./level-11-async/) | 📝 Khung |
-| 12 | [level-12-file-io](./level-12-file-io/) | 📝 Khung |
-| 13 | [level-13-networking](./level-13-networking/) | 📝 Khung |
-| 14 | [level-14-testing](./level-14-testing/) | 📝 Khung |
-| 15 | [level-15-clean-code](./level-15-clean-code/) | 📝 Khung |
-| 16–20 | Các thư mục level tương ứng | 📝 Khung |
+| 11 | [level-11-async](./level-11-async/) | ✅ Có bài |
+| 12 | [level-12-file-io](./level-12-file-io/) | ✅ Có bài |
+| 13 | [level-13-networking](./level-13-networking/) | ✅ Có bài |
+| 14 | [level-14-testing](./level-14-testing/) | ✅ Có bài |
+| 15 | [level-15-clean-code](./level-15-clean-code/) | ✅ Có bài |
+| 16 | [level-16-solid](./level-16-solid/) | 📝 Khung |
+| 17 | [level-17-design-patterns](./level-17-design-patterns/) | 📝 Khung |
+| 18 | [level-18-architecture](./level-18-architecture/) | 📝 Khung |
+| 19 | [level-19-performance](./level-19-performance/) | 📝 Khung |
+| 20 | [level-20-professional](./level-20-professional/) | 📝 Khung |
 | 21 | [level-21-unity](./level-21-unity/) | 📝 Khung |
 | Capstone | [capstone-mmorpg](./capstone-mmorpg/) | 📝 Khung |
 
