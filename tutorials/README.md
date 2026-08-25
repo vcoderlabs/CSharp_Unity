@@ -38,13 +38,17 @@ Lộ trình học theo [`plan.md`](../plan.md). Mỗi level có bài giảng + b
 | 3 | [level-03-value-vs-reference](./level-03-value-vs-reference/) | ✅ Có bài |
 | 4 | [level-04-collections](./level-04-collections/) | ✅ Có bài |
 | 5 | [level-05-generics](./level-05-generics/) | ✅ Có bài |
-| 6 | [level-06-exceptions](./level-06-exceptions/) | 📝 Khung |
-| 7 | [level-07-delegates-events](./level-07-delegates-events/) | 📝 Khung |
-| 8 | [level-08-linq](./level-08-linq/) | 📝 Khung |
-| 9 | [level-09-advanced-csharp](./level-09-advanced-csharp/) | 📝 Khung |
-| 10 | [level-10-memory](./level-10-memory/) | 📝 Khung |
+| 6 | [level-06-exceptions](./level-06-exceptions/) | ✅ Có bài |
+| 7 | [level-07-delegates-events](./level-07-delegates-events/) | ✅ Có bài |
+| 8 | [level-08-linq](./level-08-linq/) | ✅ Có bài |
+| 9 | [level-09-advanced-csharp](./level-09-advanced-csharp/) | ✅ Có bài |
+| 10 | [level-10-memory](./level-10-memory/) | ✅ Có bài |
 | 11 | [level-11-async](./level-11-async/) | 📝 Khung |
-| 12–20 | Các thư mục level tương ứng | 📝 Khung |
+| 12 | [level-12-file-io](./level-12-file-io/) | 📝 Khung |
+| 13 | [level-13-networking](./level-13-networking/) | 📝 Khung |
+| 14 | [level-14-testing](./level-14-testing/) | 📝 Khung |
+| 15 | [level-15-clean-code](./level-15-clean-code/) | 📝 Khung |
+| 16–20 | Các thư mục level tương ứng | 📝 Khung |
 | 21 | [level-21-unity](./level-21-unity/) | 📝 Khung |
 | Capstone | [capstone-mmorpg](./capstone-mmorpg/) | 📝 Khung |
 

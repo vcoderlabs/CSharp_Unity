@@ -356,11 +356,11 @@ Mỗi milestone có: Requirements → Architecture diagram → Tasks → Expecte
 - [x] Level 3 — Value Type vs Reference Type → `tutorials/level-03-value-vs-reference/`
 - [x] Level 4 — Collections & Data Structures → `tutorials/level-04-collections/`
 - [x] Level 5 — Generics → `tutorials/level-05-generics/`
-- [ ] Level 6 — Exception & Error Handling → `tutorials/level-06-exceptions/` (khung README)
-- [ ] Level 7 — Delegates, Lambda & Events → `tutorials/level-07-delegates-events/` (khung README)
-- [ ] Level 8 — LINQ → `tutorials/level-08-linq/` (khung README)
-- [ ] Level 9 — Advanced C# → `tutorials/level-09-advanced-csharp/` (khung README)
-- [ ] Level 10 — Memory Management → `tutorials/level-10-memory/` (khung README)
+- [x] Level 6 — Exception & Error Handling → `tutorials/level-06-exceptions/`
+- [x] Level 7 — Delegates, Lambda & Events → `tutorials/level-07-delegates-events/`
+- [x] Level 8 — LINQ → `tutorials/level-08-linq/`
+- [x] Level 9 — Advanced C# → `tutorials/level-09-advanced-csharp/`
+- [x] Level 10 — Memory Management → `tutorials/level-10-memory/`
 - [ ] Level 11 — Async / Await / Multithreading → `tutorials/level-11-async/` (khung README)
 - [ ] Level 12 — File / IO / Serialization → `tutorials/level-12-file-io/` (khung README)
 - [ ] Level 13 — Networking → `tutorials/level-13-networking/` (khung README)
@@ -374,4 +374,4 @@ Mỗi milestone có: Requirements → Architecture diagram → Tasks → Expecte
 - [ ] Level 21 — C# for Unity → `tutorials/level-21-unity/` (khung README)
 - [ ] Capstone Project — Unity MMORPG / Game Architecture → `tutorials/capstone-mmorpg/` (khung README)
 
-**Bước tiếp theo:** Học tuần tự **Level 0 → 5** trong `tutorials/` (xương sống bắt buộc). Sau đó yêu cầu bổ sung bài chi tiết cho Level 6+ (Exception, Delegates, LINQ…). Mỗi bài theo cấu trúc 17 mục tiếng Việt.
+**Bước tiếp theo:** Đã có bài L0–10. Tiếp theo batch L11–15, rồi L16–21 + Capstone. Mỗi 5 level cập nhật tiến độ và commit.
